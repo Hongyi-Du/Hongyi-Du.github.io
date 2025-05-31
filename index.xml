@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongyi Du</title>
+    <link>https://Hongyi-Du.github.io/</link>
+      <atom:link href="https://Hongyi-Du.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hongyi Du</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Hongyi-Du.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Hongyi Du</title>
+      <link>https://Hongyi-Du.github.io/</link>
+    </image>
+    
+    <item>
+      <title>ModelingAgent submitted to EMNLP 2025 📄</title>
+      <link>https://Hongyi-Du.github.io/post/emnlp2025-submitted/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://Hongyi-Du.github.io/post/emnlp2025-submitted/</guid>
+      <description>&lt;p&gt;We have officially submitted our manuscript &amp;ldquo;ModelingAgent: Bridging LLMs and Mathematical Modeling for Real-World Challenges&amp;rdquo; to EMNLP 2025.&lt;/p&gt;
+&lt;h3 id=&#34;quick-links&#34;&gt;Quick links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;arXiv PDF — &lt;a href=&#34;https://arxiv.org/pdf/2505.15068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2505.15068&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Codebase — &lt;a href=&#34;https://github.com/qiancheng0/ModelingAgent&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/qiancheng0/ModelingAgent&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The paper introduces ModelingBench, a real-world math-modeling benchmark, and ModelingAgent, a multi-agent framework that coordinates data retrieval, simulation, and self-refinement. &lt;em&gt;Stay tuned for reviewer feedback and camera-ready updates!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ModelingAgent: Bridging LLMs and Mathematical Modeling for Real-World Challenges</title>
+      <link>https://Hongyi-Du.github.io/publication/mathmodel/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://Hongyi-Du.github.io/publication/mathmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2 papers accepted to ACL 2025 🎉</title>
+      <link>https://Hongyi-Du.github.io/post/acl2025-accepted/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://Hongyi-Du.github.io/post/acl2025-accepted/</guid>
+      <description>&lt;p&gt;Great news!
+Both MultiAgentBench and EscapeBench have been officially accepted to ACL 2025 Main Conference (Vienna, July 2025).&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;MultiAgentBench received uniformly positive reviews — one reviewer called it &amp;ldquo;interesting, forward-looking, and visionary,&amp;rdquo; noting it &amp;ldquo;fills a critical gap in current multi-agent evaluation.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;We will submit the camera-ready version soon and keep updating the codebase &amp;amp; data to make the framework a SWE-bench equivalent for LLM multi-agent research.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Stay tuned — this post will be updated with links to the camera-ready PDF and dataset once they are available.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MultiAgentBench: Evaluating the Collaboration and Competition of LLM Agents</title>
+      <link>https://Hongyi-Du.github.io/publication/multiagentbench/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://Hongyi-Du.github.io/publication/multiagentbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EscapeBench: Towards Advancing Creative Intelligence of Language Model Agents</title>
+      <link>https://Hongyi-Du.github.io/publication/escapebench/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://Hongyi-Du.github.io/publication/escapebench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://Hongyi-Du.github.io/experience/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://Hongyi-Du.github.io/experience/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
