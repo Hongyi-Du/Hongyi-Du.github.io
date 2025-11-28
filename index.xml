@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hongyi Du</title><link>https://Hongyi-Du.github.io/</link><atom:link href="https://Hongyi-Du.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Hongyi Du</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://Hongyi-Du.github.io/media/icon_hu_645fa481986063ef.png</url><title>Hongyi Du</title><link>https://Hongyi-Du.github.io/</link></image><item><title>ModelingAgent submitted to EMNLP 2025 📄</title><link>https://Hongyi-Du.github.io/post/emnlp2025-submitted/</link><pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><guid>https://Hongyi-Du.github.io/post/emnlp2025-submitted/</guid><description>&lt;p>We have officially submitted our manuscript &amp;ldquo;ModelingAgent: Bridging LLMs and Mathematical Modeling for Real-World Challenges&amp;rdquo; to EMNLP 2025.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hongyi Du</title><link>https://Hongyi-Du.github.io/</link><atom:link href="https://Hongyi-Du.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Hongyi Du</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://Hongyi-Du.github.io/media/icon_hu_645fa481986063ef.png</url><title>Hongyi Du</title><link>https://Hongyi-Du.github.io/</link></image><item><title>Started a new research collaboration at Northwestern 🚀</title><link>https://Hongyi-Du.github.io/post/northwestern-collaboration/</link><pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate><guid>https://Hongyi-Du.github.io/post/northwestern-collaboration/</guid><description>&lt;p>Thrilled to announce that I&amp;rsquo;ve started a new research collaboration at &lt;strong>Northwestern University&lt;/strong>, supervised by &lt;a href="https://www.mli-nlp.com/" target="_blank" rel="noopener">Prof. Manling Li&lt;/a> and mentored by Qineng Wang!&lt;/p>
+&lt;h3 id="project-implicit-task-affordance-prediction-in-3d-space">Project: Implicit Task Affordance Prediction in 3D Space&lt;/h3>
+&lt;p>We&amp;rsquo;re exploring &lt;strong>navigation-focused 3D affordance prediction&lt;/strong> that links videos, point clouds, and camera trajectories to implicit natural language task instructions.&lt;/p>
+&lt;p>&lt;strong>My Role:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Design the language-conditioning component for PointFormer-style backbones&lt;/li>
+&lt;li>Build the early data curation pipeline where VLMs annotate videos with per-frame subtasks and affordances&lt;/li>
+&lt;li>Lead the transition from VLM-only prototypes to a navigation model conditioned on language and affordance signals&lt;/li>
+&lt;/ul>
+&lt;p>Looking forward to this exciting journey into embodied AI! 🤖&lt;/p></description></item><item><title>Which LLM Multi-Agent Protocol to Choose?</title><link>https://Hongyi-Du.github.io/publication/protocolbench/</link><pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate><guid>https://Hongyi-Du.github.io/publication/protocolbench/</guid><description/></item><item><title>First-author paper submitted to ICLR 2026 🎉</title><link>https://Hongyi-Du.github.io/post/protocolbench-submitted/</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://Hongyi-Du.github.io/post/protocolbench-submitted/</guid><description>&lt;p>Excited to share that my first-author paper &lt;strong>&amp;ldquo;Which LLM Multi-Agent Protocol to Choose?&amp;rdquo;&lt;/strong> has been completed and submitted to ICLR 2026!&lt;/p>
+&lt;h3 id="paper-highlights">Paper Highlights&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>ProtocolBench&lt;/strong>: A benchmark that systematically compares agent communication protocols (A2A, ACP, ANP, Agora, etc.) along four axes: task success, latency, message overhead, and robustness.&lt;/li>
+&lt;li>&lt;strong>ProtocolRouter&lt;/strong>: A learnable router that adaptively selects the best protocol per scenario, reducing Fail-Storm recovery time by up to 18.1%.&lt;/li>
+&lt;/ul>
+&lt;p>📄 Preprint: &lt;a href="https://arxiv.org/abs/2510.17149" target="_blank" rel="noopener">arXiv:2510.17149&lt;/a>&lt;br>
+💻 Code &amp;amp; Benchmark: &lt;a href="https://github.com/ulab-uiuc/AgentProtocols" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/p>
+&lt;p>&lt;em>Fingers crossed for good reviews!&lt;/em> 🤞&lt;/p></description></item><item><title>New project: Bio-Inspired Multi-Agent Evolution Arena 🧬</title><link>https://Hongyi-Du.github.io/post/bio-inspired-arena/</link><pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate><guid>https://Hongyi-Du.github.io/post/bio-inspired-arena/</guid><description>&lt;p>Excited to announce a new research project at &lt;strong>Blender Lab &amp;amp; U Lab&lt;/strong>!&lt;/p>
+&lt;p>I&amp;rsquo;m collaborating with &lt;a href="https://sib.illinois.edu/directory/profile/generobi" target="_blank" rel="noopener">Prof. Gene Robinson&lt;/a>, &lt;a href="https://blender.cs.illinois.edu/hengji.html" target="_blank" rel="noopener">Prof. Heng Ji&lt;/a>, and &lt;a href="https://cs.stanford.edu/~jiaxuan/" target="_blank" rel="noopener">Prof. Jiaxuan You&lt;/a> on an ambitious project:&lt;/p>
+&lt;h3 id="bio-inspired-multi-agent-evolution-arena-civilization-simulation-and-swarm-intelligence">Bio-Inspired Multi-Agent Evolution Arena: Civilization Simulation and Swarm Intelligence&lt;/h3>
+&lt;p>We&amp;rsquo;re building a bio-inspired multi-agent arena where &lt;strong>civilizations evolve&lt;/strong> under limited resources, seasonal changes, and stochastic disasters.&lt;/p>
+&lt;p>&lt;strong>Core Ideas:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Formalize self-evolving civilizations via mutation, inheritance, and adaptation loops&lt;/li>
+&lt;li>Evolution happens over agent roles, communication protocols, memory, and tools&lt;/li>
+&lt;li>Group-level performance serves as the main selection signal&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>My Role:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Lead the overall scenario design and environment implementation (grid world, resource dynamics, disaster events)&lt;/li>
+&lt;li>Coordinate interfaces with observation/analysis modules&lt;/li>
+&lt;/ul>
+&lt;p>This is a fascinating intersection of biology, AI, and multi-agent systems! 🌍🤖&lt;/p></description></item><item><title>ModelingAgent submitted to EMNLP 2025 📄</title><link>https://Hongyi-Du.github.io/post/emnlp2025-submitted/</link><pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><guid>https://Hongyi-Du.github.io/post/emnlp2025-submitted/</guid><description>&lt;p>We have officially submitted our manuscript &amp;ldquo;ModelingAgent: Bridging LLMs and Mathematical Modeling for Real-World Challenges&amp;rdquo; to EMNLP 2025.&lt;/p>
 &lt;h3 id="quick-links">Quick links&lt;/h3>
 &lt;ul>
 &lt;li>arXiv PDF — &lt;a href="https://arxiv.org/pdf/2505.15068" target="_blank" rel="noopener">2505.15068&lt;/a>&lt;/li>
