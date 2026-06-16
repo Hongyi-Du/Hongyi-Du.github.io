@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Hongyi Du</title><link>https://Hongyi-Du.github.io/post/</link><atom:link href="https://Hongyi-Du.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Blog</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate><image><url>https://Hongyi-Du.github.io/media/icon_hu_645fa481986063ef.png</url><title>Blog</title><link>https://Hongyi-Du.github.io/post/</link></image><item><title>Started a new research collaboration at Northwestern 🚀</title><link>https://Hongyi-Du.github.io/post/northwestern-collaboration/</link><pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate><guid>https://Hongyi-Du.github.io/post/northwestern-collaboration/</guid><description>&lt;p>Thrilled to announce that I&amp;rsquo;ve started a new research collaboration at &lt;strong>Northwestern University&lt;/strong>, supervised by &lt;a href="https://www.mli-nlp.com/" target="_blank" rel="noopener">Prof. Manling Li&lt;/a> and mentored by Qineng Wang!&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Hongyi Du</title><link>https://Hongyi-Du.github.io/post/</link><atom:link href="https://Hongyi-Du.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Blog</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0000</lastBuildDate><image><url>https://Hongyi-Du.github.io/media/icon_hu_645fa481986063ef.png</url><title>Blog</title><link>https://Hongyi-Du.github.io/post/</link></image><item><title>New project: SocioGenesis — leading a long-horizon LLM-agent organization testbed 🏙️</title><link>https://Hongyi-Du.github.io/post/sociogenesis/</link><pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate><guid>https://Hongyi-Du.github.io/post/sociogenesis/</guid><description>&lt;p>Excited to announce &lt;strong>SocioGenesis&lt;/strong>, a new research project I&amp;rsquo;m &lt;strong>leading&lt;/strong> as a &lt;strong>Together AI collaboration&lt;/strong>, advised by &lt;a href="https://www.james-zou.com/" target="_blank" rel="noopener">Prof. James Zou&lt;/a>, &lt;a href="https://cs.stanford.edu/~jiaxuan/" target="_blank" rel="noopener">Prof. Jiaxuan You&lt;/a>, and Shang Zhu!&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="SocioGenesis Architecture Overview" srcset="
+/post/sociogenesis/featured_hu_82ebc2d57cbac323.webp 400w,
+/post/sociogenesis/featured_hu_c73e2edaaf88780.webp 760w,
+/post/sociogenesis/featured_hu_ac897c113de1db1d.webp 1200w"
+src="https://Hongyi-Du.github.io/post/sociogenesis/featured_hu_82ebc2d57cbac323.webp"
+width="760"
+height="500"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h3 id="sociogenesis-long-horizon-organization-simulation-for-llm-agents">SocioGenesis: Long-Horizon Organization Simulation for LLM Agents&lt;/h3>
+&lt;p>SocioGenesis is a long-horizon LLM-agent organization testbed that studies &lt;strong>how agent companies form persistent organizational capabilities&lt;/strong> under realistic constraints such as roles, skills, deadlines, meetings, tool access, fatigue, and budget.&lt;/p>
+&lt;p>&lt;strong>Core Ideas:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Professional profile graphs&lt;/strong> as structured decision priors over role, skill, memory, and decision preferences — moving beyond persona-style prompting toward graph-grounded organizational heterogeneity.&lt;/li>
+&lt;li>&lt;strong>OrgEnv&lt;/strong>, a startup-style product-development environment with repositories, documents, workspaces, customer events, and community-profile evaluators for multi-day product-development outcomes.&lt;/li>
+&lt;li>A bio-inspired cognitive loop (perception → memory → planning → action → reflection) running under explicit time, fatigue, and token-economy constraints.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>My Role:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Lead problem formulation, benchmark design, and profile-graph construction&lt;/li>
+&lt;li>Design ablations and product-market evaluation comparing homogeneous agents, role-only agents, aligned professional-profile agents, shuffled-profile controls, and institution-formation pipelines&lt;/li>
+&lt;/ul>
+&lt;p>Building organizations that &lt;em>grow&lt;/em> — not just agents that chat. 🤖🌍&lt;/p></description></item><item><title>Joined the UIUC ATLAS Moonshot 🚀</title><link>https://Hongyi-Du.github.io/post/atlas/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://Hongyi-Du.github.io/post/atlas/</guid><description>&lt;p>Honored to share that I&amp;rsquo;ve been invited by &lt;a href="http://hanj.cs.illinois.edu/" target="_blank" rel="noopener">Prof. Jiawei Han&lt;/a> to join the &lt;strong>UIUC ATLAS Moonshot&lt;/strong> — &lt;em>Adaptive Technologies for Learning and Reskilling&lt;/em>!&lt;/p>
+&lt;p>ATLAS aims to build an &lt;strong>Upskill-as-You-Go&lt;/strong> AI education and reskilling ecosystem that connects learners, training providers, and employers through graph-grounded AI assistance. I&amp;rsquo;m working under an amazing advising team: Prof. ChengXiang Zhai, Prof. Jiaxuan You, Prof. Nancy M. Amato, Prof. Dilek Hakkani-Tür, and Prof. Jiawei Han.&lt;/p>
+&lt;h3 id="what-i-work-on">What I work on&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Open Reskill Graph&lt;/strong>: decompose curricula, job requirements, and learning materials into atomic skill nodes, dependency edges, and adaptive microlearning units.&lt;/li>
+&lt;li>&lt;strong>Trusted U-GO AI-pilot&lt;/strong>: ground LLM tutoring in structured skill graphs, learner-state modeling, and human-in-the-loop verification rather than ungrounded generation.&lt;/li>
+&lt;li>&lt;strong>Evaluation&lt;/strong>: support benchmark design for human–AI learning interactions, including learning-gain measurement, skill-gap diagnosis, and metrics that distinguish a productive &lt;em>AI-pilot&lt;/em> from passive &lt;em>autopilot&lt;/em> usage.&lt;/li>
+&lt;/ul>
+&lt;p>Excited to bring my background in LLM agent evaluation, personalization, and multi-agent systems to graph-grounded educational agents! 🤝&lt;/p></description></item><item><title>First-author paper accepted to ICML 2026 🎉 — See you in Seoul!</title><link>https://Hongyi-Du.github.io/post/icml2026-accepted/</link><pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate><guid>https://Hongyi-Du.github.io/post/icml2026-accepted/</guid><description>&lt;p>Thrilled to share that my first-author paper &lt;strong>&amp;ldquo;Which LLM Multi-Agent Protocol to Choose?&amp;rdquo;&lt;/strong> has been &lt;strong>accepted to ICML 2026&lt;/strong>! 🎉&lt;/p>
+&lt;p>ProtocolBench is a benchmark that systematically compares LLM multi-agent communication protocols (A2A, ACP, ANP, Agora), and &lt;strong>ProtocolRouter&lt;/strong> is a scenario-aware router that selects one protocol per module — matching or surpassing the best single-protocol baselines.&lt;/p>
+&lt;h3 id="see-you-in-seoul-">See you in Seoul 🇰🇷&lt;/h3>
+&lt;p>I&amp;rsquo;m planning to attend &lt;strong>ICML 2026 in person&lt;/strong> at the COEX Convention Center, &lt;strong>Seoul, South Korea (July 6–11, 2026)&lt;/strong>. If you&amp;rsquo;ll be there and want to chat about multi-agent systems, communication protocols, or agent organizations, please reach out!&lt;/p>
+&lt;p>📄 Preprint: &lt;a href="https://arxiv.org/abs/2510.17149" target="_blank" rel="noopener">arXiv:2510.17149&lt;/a>&lt;br>
+💻 Code &amp;amp; Benchmark: &lt;a href="https://github.com/ulab-uiuc/AgentProtocols" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/p></description></item><item><title>First-author paper submitted to ICML 2026 📄</title><link>https://Hongyi-Du.github.io/post/protocolbench-submitted/</link><pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate><guid>https://Hongyi-Du.github.io/post/protocolbench-submitted/</guid><description>&lt;p>Excited to share that my first-author paper &lt;strong>&amp;ldquo;Which LLM Multi-Agent Protocol to Choose?&amp;rdquo;&lt;/strong> has been submitted to &lt;strong>ICML 2026&lt;/strong>!&lt;/p>
+&lt;h3 id="paper-highlights">Paper Highlights&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>ProtocolBench&lt;/strong>: A benchmark that systematically compares agent communication protocols (A2A, ACP, ANP, Agora, etc.) along four axes: task success, latency, message overhead, and robustness.&lt;/li>
+&lt;li>&lt;strong>ProtocolRouter&lt;/strong>: A learnable router that adaptively selects the best protocol per scenario, reducing Fail-Storm recovery time by up to 18.1%.&lt;/li>
+&lt;/ul>
+&lt;p>📄 Preprint: &lt;a href="https://arxiv.org/abs/2510.17149" target="_blank" rel="noopener">arXiv:2510.17149&lt;/a>&lt;br>
+💻 Code &amp;amp; Benchmark: &lt;a href="https://github.com/ulab-uiuc/AgentProtocols" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/p>
+&lt;p>&lt;em>Fingers crossed for good reviews!&lt;/em> 🤞&lt;/p></description></item><item><title>Started a new research collaboration at Northwestern 🚀</title><link>https://Hongyi-Du.github.io/post/northwestern-collaboration/</link><pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate><guid>https://Hongyi-Du.github.io/post/northwestern-collaboration/</guid><description>&lt;p>Thrilled to announce that I&amp;rsquo;ve started a new research collaboration at &lt;strong>Northwestern University&lt;/strong>, supervised by &lt;a href="https://www.mli-nlp.com/" target="_blank" rel="noopener">Prof. Manling Li&lt;/a> and mentored by Qineng Wang!&lt;/p>
 &lt;h3 id="project-implicit-task-affordance-prediction-in-3d-space">Project: Implicit Task Affordance Prediction in 3D Space&lt;/h3>
 &lt;p>We&amp;rsquo;re exploring &lt;strong>navigation-focused 3D affordance prediction&lt;/strong> that links videos, point clouds, and camera trajectories to implicit natural language task instructions.&lt;/p>
 &lt;p>&lt;strong>My Role:&lt;/strong>&lt;/p>
@@ -7,30 +55,22 @@
 &lt;li>Build the early data curation pipeline where VLMs annotate videos with per-frame subtasks and affordances&lt;/li>
 &lt;li>Lead the transition from VLM-only prototypes to a navigation model conditioned on language and affordance signals&lt;/li>
 &lt;/ul>
-&lt;p>Looking forward to this exciting journey into embodied AI! 🤖&lt;/p></description></item><item><title>First-author paper submitted to ICLR 2026 🎉</title><link>https://Hongyi-Du.github.io/post/protocolbench-submitted/</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://Hongyi-Du.github.io/post/protocolbench-submitted/</guid><description>&lt;p>Excited to share that my first-author paper &lt;strong>&amp;ldquo;Which LLM Multi-Agent Protocol to Choose?&amp;rdquo;&lt;/strong> has been completed and submitted to ICLR 2026!&lt;/p>
-&lt;h3 id="paper-highlights">Paper Highlights&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>ProtocolBench&lt;/strong>: A benchmark that systematically compares agent communication protocols (A2A, ACP, ANP, Agora, etc.) along four axes: task success, latency, message overhead, and robustness.&lt;/li>
-&lt;li>&lt;strong>ProtocolRouter&lt;/strong>: A learnable router that adaptively selects the best protocol per scenario, reducing Fail-Storm recovery time by up to 18.1%.&lt;/li>
-&lt;/ul>
-&lt;p>📄 Preprint: &lt;a href="https://arxiv.org/abs/2510.17149" target="_blank" rel="noopener">arXiv:2510.17149&lt;/a>&lt;br>
-💻 Code &amp;amp; Benchmark: &lt;a href="https://github.com/ulab-uiuc/AgentProtocols" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/p>
-&lt;p>&lt;em>Fingers crossed for good reviews!&lt;/em> 🤞&lt;/p></description></item><item><title>New project: Bio-Inspired Multi-Agent Evolution Arena 🧬</title><link>https://Hongyi-Du.github.io/post/bio-inspired-arena/</link><pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate><guid>https://Hongyi-Du.github.io/post/bio-inspired-arena/</guid><description>&lt;p>Excited to announce a new research project at &lt;strong>Blender Lab &amp;amp; U Lab&lt;/strong>!&lt;/p>
-&lt;p>I&amp;rsquo;m collaborating with &lt;a href="https://sib.illinois.edu/directory/profile/generobi" target="_blank" rel="noopener">Prof. Gene Robinson&lt;/a>, &lt;a href="https://blender.cs.illinois.edu/hengji.html" target="_blank" rel="noopener">Prof. Heng Ji&lt;/a>, and &lt;a href="https://cs.stanford.edu/~jiaxuan/" target="_blank" rel="noopener">Prof. Jiaxuan You&lt;/a> on an ambitious project:&lt;/p>
-&lt;h3 id="bio-inspired-multi-agent-evolution-arena-civilization-simulation-and-swarm-intelligence">Bio-Inspired Multi-Agent Evolution Arena: Civilization Simulation and Swarm Intelligence&lt;/h3>
-&lt;p>We&amp;rsquo;re building a bio-inspired multi-agent arena where &lt;strong>civilizations evolve&lt;/strong> under limited resources, seasonal changes, and stochastic disasters.&lt;/p>
+&lt;p>Looking forward to this exciting journey into embodied AI! 🤖&lt;/p></description></item><item><title>New project: EvolvingAgents — Bio-Inspired Multi-Agent Evolution 🧬</title><link>https://Hongyi-Du.github.io/post/bio-inspired-arena/</link><pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate><guid>https://Hongyi-Du.github.io/post/bio-inspired-arena/</guid><description>&lt;p>Excited to kick off &lt;strong>EvolvingAgents&lt;/strong>, a new research project at U Lab!&lt;/p>
+&lt;p>I&amp;rsquo;m collaborating with &lt;a href="https://sib.illinois.edu/directory/profile/generobi" target="_blank" rel="noopener">Prof. Gene Robinson&lt;/a> and &lt;a href="https://cs.stanford.edu/~jiaxuan/" target="_blank" rel="noopener">Prof. Jiaxuan You&lt;/a>, in collaboration with &lt;a href="https://www.james-zou.com/" target="_blank" rel="noopener">Prof. James Zou&lt;/a>, on an ambitious project:&lt;/p>
+&lt;h3 id="evolvingagents-bio-inspired-design-and-evolution-for-llm-based-multi-agent-systems">EvolvingAgents: Bio-Inspired Design and Evolution for LLM-Based Multi-Agent Systems&lt;/h3>
+&lt;p>We&amp;rsquo;re building a two-pillar bio-inspired framework that couples &lt;strong>within-task coordination&lt;/strong> with &lt;strong>across-task organizational adaptation&lt;/strong>, and a long-horizon arena where &lt;strong>civilizations evolve&lt;/strong> under limited resources, seasonal changes, and stochastic disasters.&lt;/p>
 &lt;p>&lt;strong>Core Ideas:&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>Formalize self-evolving civilizations via mutation, inheritance, and adaptation loops&lt;/li>
-&lt;li>Evolution happens over agent roles, communication protocols, memory, and tools&lt;/li>
-&lt;li>Group-level performance serves as the main selection signal&lt;/li>
+&lt;li>Stigmergic memory, typed reflex signaling, and an LLM-driven adaptive immune pathway for coordination and recovery&lt;/li>
+&lt;li>A Meta-Evolver that turns recurrent experience into auditable runtime components with lineage, ratings, promotion, and retirement&lt;/li>
+&lt;li>Group-level performance as the main selection signal&lt;/li>
 &lt;/ul>
 &lt;p>&lt;strong>My Role:&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>Lead the overall scenario design and environment implementation (grid world, resource dynamics, disaster events)&lt;/li>
-&lt;li>Coordinate interfaces with observation/analysis modules&lt;/li>
+&lt;li>Proposed the civilization-style benchmark vision and led the Nature Environment scenario and evaluation design&lt;/li>
+&lt;li>Coordinate interfaces across simulation, observation, memory, evolution, and analysis modules&lt;/li>
 &lt;/ul>
-&lt;p>This is a fascinating intersection of biology, AI, and multi-agent systems! 🌍🤖&lt;/p></description></item><item><title>ModelingAgent submitted to EMNLP 2025 📄</title><link>https://Hongyi-Du.github.io/post/emnlp2025-submitted/</link><pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><guid>https://Hongyi-Du.github.io/post/emnlp2025-submitted/</guid><description>&lt;p>We have officially submitted our manuscript &amp;ldquo;ModelingAgent: Bridging LLMs and Mathematical Modeling for Real-World Challenges&amp;rdquo; to EMNLP 2025.&lt;/p>
+&lt;p>A fascinating intersection of biology, AI, and multi-agent systems! 🌍🤖&lt;/p></description></item><item><title>ModelingAgent submitted to EMNLP 2025 📄</title><link>https://Hongyi-Du.github.io/post/emnlp2025-submitted/</link><pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><guid>https://Hongyi-Du.github.io/post/emnlp2025-submitted/</guid><description>&lt;p>We have officially submitted our manuscript &amp;ldquo;ModelingAgent: Bridging LLMs and Mathematical Modeling for Real-World Challenges&amp;rdquo; to EMNLP 2025.&lt;/p>
 &lt;h3 id="quick-links">Quick links&lt;/h3>
 &lt;ul>
 &lt;li>arXiv PDF — &lt;a href="https://arxiv.org/pdf/2505.15068" target="_blank" rel="noopener">2505.15068&lt;/a>&lt;/li>
